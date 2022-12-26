@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ORDU Server": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false,
+      "remoteDebugMachine": "120.48.72.37:4026",
+      "authenticationMode": "Windows"
+    }
+  }
+}
